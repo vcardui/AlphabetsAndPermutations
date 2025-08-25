@@ -9,7 +9,7 @@
  * +----------------------------------------------------------------------------+
  * | Author.......: Vanessa Reteguín <vanessa@reteguin.com>
  * | First release: August 19th, 2025
- * | Last update..: August 20th, 2025
+ * | Last update..: August 25th, 2025
  * | WhatIs.......: Alphabets-and-permutations - Main
  * +----------------------------------------------------------------------------+
  */
@@ -65,17 +65,16 @@ Opcional:
 // Read a text file and Loop through each l: https://cplusplus.com/forum/beginner/24492/
 // How to Check if a Vector Contains a Given Element in C++?: https://www.geeksforgeeks.org/cpp/check-if-vector-contains-given-element-in-cpp/
 // Print a list: https://cplusplus.com/forum/general/163516/
-// Decimal to any base convertion code in C++: https://stackoverflow.com/questions/47407953/decimal-to-any-base-convertion-code-in-c
+// Decimal to any base conversion code in C++: https://stackoverflow.com/questions/47407953/decimal-to-any-base-convertion-code-in-c
 
 // How to tell file encoding on MacOS:
 // (input)  file -I DaVinciCode.txt
 // (output) DaVinciCode.txt: text/plain; charset=utf-8
 
 /* ------------------------- Libraries ------------------------- */
-#include <algorithm> /* reverse */
-#include <cmath>     /* pow */
-#include <fstream>   /* ifstream */
-#include <iostream>  /* cin/cout */
+#include <cmath>    /* pow */
+#include <fstream>  /* ifstream */
+#include <iostream> /* cin/cout */
 #include <list>
 #include <vector>
 #include <string>
